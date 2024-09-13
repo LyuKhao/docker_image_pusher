@@ -8,3 +8,5 @@ homeassistant/aarch64-addon-samba
 homeassistant/aarch64-addon-configurator
 homeassistant/aarch64-addon-git_pull
 homeassistant/aarch64-addon-mosquitto
+
+bugprogrammer/calendar-remark
