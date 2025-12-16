@@ -10,3 +10,5 @@ homeassistant/aarch64-addon-git_pull
 homeassistant/aarch64-addon-mosquitto
 
 bugprogrammer/calendar-remark
+
+nodered/node-red
